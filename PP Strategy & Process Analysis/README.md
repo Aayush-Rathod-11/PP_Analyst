@@ -1,4 +1,4 @@
-# SAP PP Virtual Internship - Week 1: Production Planning Strategy & Process Analysis
+# SAP Production Planning - 1: Production Planning Strategy & Process Analysis
 
 Case study: **Vertex Mobility Pvt. Ltd.** (hypothetical electric two-wheeler manufacturer, Sanand, Gujarat).
 
