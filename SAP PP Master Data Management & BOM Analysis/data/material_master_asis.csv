@@ -1,0 +1,27 @@
+material,description,type,base_uom,mrp_type,procurement,lt_master_days,lt_actual_days,scrap_master_pct,scrap_hist_pct,status,unit_cost_inr
+VXL-1000,VX-Lite Electric Scooter,FERT,EA,PD,E,0,0,0,0,A,42000
+VXL-2000,Frame Assembly,HALB,EA,PD,E,0,0,0,0,A,5200
+VXL-2100,Steel Frame Tube,ROH,EA,PD,F,10,10,0,0,A,1800
+VXL-2200,Swingarm,ROH,EA,PD,F,12,12,0,0,A,950
+VXL-2300,Paint Powder,ROH,KG,PD,F,14,14,0,0,A,620
+VXL-3000,Powertrain Assembly,HALB,EA,PD,E,0,0,0,0,A,9800
+VXL-3100,Hub Motor 1.5 kW,ROH,EA,PD,F,35,36,0,0,A,5200
+VXL-3200,Motor Controller,ROH,EA,PD,F,30,84,0,0,A,3200
+VXL-3300,Wiring Harness,HALB,EA,PD,E,0,0,0,4,A,780
+VXL-3310,Copper Wire 1.5 sq.mm,ROH,M,PD,F,21,21,0,0,A,95
+VXL-3320,Connector Set,ROH,EA,PD,F,15,15,0,0,A,140
+VXL-3400,Controller Mount Bracket,ROH,EA,ND,F,10,10,0,0,A,210
+VXL-4000,Battery Pack 48V,HALB,EA,PD,E,0,0,0,0,A,12500
+VXL-4100,Li-ion Cell 21700,ROH,EA,PD,F,45,45,0,0,A,170
+VXL-4150,BMS Board v1 (obsolete),ROH,EA,PD,F,28,28,0,0,O,850
+VXL-4200,BMS Board v2,ROH,EA,PD,F,28,29,0,0,A,1050
+VXL-4300,Battery Casing,ROH,EA,PD,F,18,18,0,0,A,480
+VXL-4400,Nickel Strip,ROH,M,PD,F,20,20,0,0,A,65
+VXL-5000,Wheel Assembly,HALB,EA,PD,E,0,0,0,0,A,3600
+VXL-5100,Tyre,ROH,EA,PD,F,10,10,0,0,A,650
+VXL-5200,Alloy Rim,ROH,EA,PD,F,14,14,0,0,A,1450
+VXL-5300,Brake Disc,ROH,EA,PD,F,12,12,0,0,A,420
+VXL-6000,Dashboard & Lighting Kit,ROH,EA,PD,F,25,26,0,0,A,1650
+VXL-6100,Fastener Kit M6-M8,ROH,EA,PD,F,7,7,0,0,A,320
+VXL-6110,FASTENER KIT M6/M8,ROH,EA,PD,F,7,7,0,0,A,320
+VXL-6200,Packaging Set,VERP,EA,PD,F,7,7,0,0,A,380

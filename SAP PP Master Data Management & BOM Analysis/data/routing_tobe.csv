@@ -1,0 +1,6 @@
+material,operation,work_center,std_hours,actual_hours
+VXL-4000,10,BATT-ASM,0.5,0.5
+VXL-2000,10,WELD-01,0.8,0.82
+VXL-3000,10,PWR-ASM,0.6,0.62
+VXL-5000,10,WHL-ASM,0.4,0.41
+VXL-1000,10,FIN-ASM,1.2,1.25

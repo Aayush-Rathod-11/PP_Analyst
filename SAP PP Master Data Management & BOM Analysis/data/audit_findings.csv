@@ -1,0 +1,9 @@
+rule,issue,object,detail,severity
+R1,Lead-time deviation,VXL-3200,Planned delivery time 30 d vs actual 84 d,High
+R4,Component scrap not maintained,VXL-3300,Historical yield loss 4% vs master 0%,Medium
+R2,MRP type ND on BOM component,VXL-3400,Component is in a BOM but excluded from MRP,High
+R3,Obsolete material still in active BOM,VXL-4150,"Status obsolete, no valid-to date",High
+R5,Possible duplicate material,"VXL-6100, VXL-6110",Same description after normalisation,Medium
+R6,BOM quantity differs from engineering BOM,VXL-4000 > VXL-4100,BOM 48 vs EBOM 52 EA,High
+R7,UoM conversion mismatch,VXL-3310,1 ROL = 10 M in master vs 100 M supplier pack,High
+R8,Routing standard time deviates from actual,VXL-4000 / BATT-ASM,Std 0.30 h vs actual 0.50 h,High

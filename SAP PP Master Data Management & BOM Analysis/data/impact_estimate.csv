@@ -1,0 +1,9 @@
+data_error,cost_inr,assumption
+Battery cell BOM understated (48 vs 52),538784,7232 cells short; emergency buy at +35% plus Rs 15/cell air freight
+Controller lead time 30 d vs 84 d,895500,398 vehicles (22%) delayed ~9 days at Rs 250 per vehicle-day
+Battery routing time 0.30 h vs 0.50 h,462240,"Planned load 542 h (76%) vs real 904 h (127%); 193 h unplanned overtime at Rs 2,400/h"
+Obsolete BMS v1 still in BOM,255000,300 obsolete boards ordered at Rs 850 before block (write-off risk)
+Controller bracket set to MRP type ND,240000,"4-hour line stop at Rs 60,000/h contribution loss"
+Duplicate fastener kit materials,5760,"1,200 kits split across two numbers; monthly carrying cost at 18% p.a. (capital tied up Rs 384,000)"
+Wire UoM conversion (1 ROL = 10 M vs 100 M),14400,10x requisition quantity caught at approval; 24 h buyer rework at Rs 600/h
+Harness scrap % not maintained (4%),24046,Shortfall of 253 m copper wire at Rs 95/m
