@@ -1,0 +1,10 @@
+variant,late_orders_pct,mean_tardiness_h,mean_flow_h,setup_h
+FIFO (as-is),36.6,6.7,97.4,56.5
+EDD everywhere,37.1,5.7,97.3,57.1
+Least-slack at BATT and elsewhere,45.3,6.2,102.0,57.3
+"ATC at BATT, EDD elsewhere",35.6,5.9,99.0,52.5
+EDD + rope (BATT backlog <= 96 h),34.4,5.5,97.0,49.6
+EDD + material-availability release gate,39.6,6.7,99.3,49.3
+"EDD at BATT, no setup grouping",34.8,5.3,97.0,49.2
+EDD at BATT + setup grouping (16 h) = chosen,36.1,5.7,97.3,42.4
+EDD at BATT + setup grouping (48 h),38.2,6.9,98.5,38.8

@@ -1,0 +1,7 @@
+scenario,late_orders_pct,mean_tardiness_h,max_tardiness_h,makespan_h,mean_flow_h,setup_h,batt_util_pct,avg_wip
+FIFO (as-is),59.1,14.0,67.5,279.1,112.8,51.5,108.1,8.9
+EDD,63.6,13.1,41.7,278.9,112.9,51.0,108.1,8.9
+SPT,40.9,28.3,148.6,292.6,113.2,53.5,108.1,8.5
+Critical ratio,77.3,15.2,39.9,278.1,119.8,58.0,108.1,9.5
+Proposed,59.1,13.0,60.2,271.1,112.8,37.5,108.1,9.2
+Proposed + overtime,50.0,9.6,50.9,260.0,108.9,38.0,102.2,9.2
