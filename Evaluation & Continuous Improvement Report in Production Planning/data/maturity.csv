@@ -1,0 +1,10 @@
+area,current,target_12m,evidence
+Demand planning,2,4,3-month average forecast; 28% error; no bias tracking (Week 1)
+Sales & operations planning,2,4,No monthly consensus meeting; Excel master schedule
+Master data management,2,4,"8 errors found, no owner, no change control (Week 2)"
+MRP and planning parameters,3,4,"MRP runs, but lead times and scrap are estimates"
+Capacity planning,2,4,Overload of 127-130% found only on the shop floor (Weeks 1-3)
+Scheduling and sequencing,2,4,Arrival-order dispatch; 59% late orders in simulation (Week 3)
+Shop-floor execution,3,4,"Orders confirmed, but not every shift; rush orders unmanaged"
+Inventory control,2,4,Same safety stock for all items; turns 5.2
+Performance management,1,4,"No KPI scorecard, no review cadence, no improvement log"

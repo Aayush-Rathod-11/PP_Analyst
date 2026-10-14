@@ -1,0 +1,12 @@
+id,initiative,impact_1_5,effort_1_5,one_time_cost_lakh,run_cost_lakh_yr,annual_benefit_lakh,owner,start_month,end_month
+I1,Master data governance and nightly audit,5,2,12,2,68.2,Data steward,1,6
+I2,Seasonal consensus forecast and accuracy tracking,4,2,10,0,20.4,Demand planner,1,5
+I3,"Segmented inventory policy (ABC/XYZ, safety stock)",4,2,6,0,14.0,Materials manager,3,6
+I4,KPI dashboard and review cadence,4,3,14,2,4.0,Planning analyst,1,4
+I5,Bottleneck-first EDD sequencing and dispatch list,4,2,4,0,8.9,Capacity planner,2,5
+I6,"Peak capacity lever plan (shift roster, subcontract)",5,3,8,8,19.7,Plant manager,3,8
+I7,SMED on battery line,3,3,9,0,5.8,Production manager,5,9
+I8,Rush-order governance,3,1,2,0,7.2,Production manager,1,3
+I9,Total productive maintenance at bottleneck,4,3,15,3,10.8,Maintenance head,4,10
+I10,Availability check before release and supplier lead-time feedback,3,2,5,0,5.8,MRP controller,2,6
+I11,Training and change management,3,2,6,0,0,HR / project lead,1,12

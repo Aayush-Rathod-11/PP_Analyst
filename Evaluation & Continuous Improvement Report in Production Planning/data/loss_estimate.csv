@@ -1,0 +1,10 @@
+loss_category,rs_lakh_per_year,assumption
+Master data errors,97.4,"Week 2 monthly estimate of Rs 24.4 lakh, assumed to recur once per quarter"
+Late and lost sales (OTIF 88%),47.2,"12% of vehicles late; 25% lost at Rs 7,500 contribution; rest cost Rs 1,000 in concessions"
+Excess inventory carrying,31.1,Stock at 5.2 turns versus 6.5 turns target; carrying cost 18% a year
+Breakdowns at bottleneck,21.6,"12 h a month; one battery line hour = 2 packs x Rs 7,500"
+Changeover losses,16.7,"Week 3: 53 h per 12-day window x 26 windows x Rs 1,200 per hour"
+Rush-order expediting,14.4,"8 rush orders a month at Rs 15,000 extra cost"
+Unplanned overtime at bottleneck,13.9,"Week 2: 193 h of unplanned overtime in 3 peak months at Rs 2,400 per h"
+Material shortage line stops,9.6,"4 stops a year at Rs 2.4 lakh (Week 2: 4 h x Rs 60,000)"
+Planner manual effort,8.1,3 planners x 30% of time in spreadsheets and rework x Rs 9 lakh a year
